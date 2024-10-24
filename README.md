@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+Prueba de cómo crear un repositorio desde GitHub y clonarlo a mi computadora.
